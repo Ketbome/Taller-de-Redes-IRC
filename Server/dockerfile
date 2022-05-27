@@ -1,0 +1,23 @@
+#Imagen del sistema
+FROM ubuntu:20.04
+
+#Mantenedor de software
+MAINTAINER Pablo Moraga
+
+#Sin interacciones del sistema en instalaciones
+ENV DEBIAN_FRONTEND=noninteractive
+
+#Ejecucion de instrucciones de instalacion
+RUN apt-get update -y \
+&& apt-get install -y build-essential python3 git
+
+#Copiar archivos del git y entrar en la carpeta
+RUN git clone https://github.com/jrosdahl/miniircd miniircd \
+&& cp miniircd/miniircd /usr/local/bin
+
+#Abrir puertos
+EXPOSE 6666/tcp 6667/tcp 6697/tcp
+
+#Usuario
+USER nobody
+CMD ["miniircd", "--verbose"]
