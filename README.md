@@ -68,4 +68,4 @@ Finalmente se interceptan los datos para la modificacion de estos con la funcion
 [![Watch the video](https://i9.ytimg.com/vi/4odwaBsF224/mq2.jpg?sqp=CIiKmpUG&rs=AOn4CLBFmN0bMqIKkKazObApJWb_QVxkVQ)](https://youtu.be/4odwaBsF224)
 
 ##Video de Parte 3
-[![Watch the video](https://i9.ytimg.com/vi/4odwaBsF224/mq2.jpg?sqp=CIiKmpUG&rs=AOn4CLBFmN0bMqIKkKazObApJWb_QVxkVQ)]([https://youtu.be/4odwaBsF224](https://youtu.be/A3cpDhkupqI))
+[![Watch the video](https://i9.ytimg.com/vi/4odwaBsF224/mq2.jpg?sqp=CIiKmpUG&rs=AOn4CLBFmN0bMqIKkKazObApJWb_QVxkVQ)](https://youtu.be/A3cpDhkupqI)
