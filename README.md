@@ -1,4 +1,4 @@
-#Parte 1
+# Parte 1
 
 Buenas, lo ideal para todo esto es hacerlo en ubuntu, aqui como se puede ver estan subidos los archivos de dockerfile de servidor y cliente los cuales estan en dos carpetas distintas, al descargar y despues de descomprimir el archivo hay que entrar por 2 terminales distintos, de los cuales cada uno vaya a un directorio distinto osea Server y otro al Cliente, cabe recalcar que hay que tener docker instalado para este procedimiento.
 Ya con lo anterior dicho ahora hay que ir al terminal del Cliente y hacer el buildeo de este con el siguiente comando:
